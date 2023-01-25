@@ -1,0 +1,12 @@
+{
+  "name": "Spring Break Dash",
+  "short_name": "Spring Break Dash",
+  "id": "com.example.rundinorun",
+  "description": "Enjoy your spring break for as long as you can while avoiding obstacles.\n\nControls :\n   Computer : Up and Down arrow keys\n   Touch screens : Swipe up or down\n",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
